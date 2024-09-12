@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\proj_int\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|c:\\users\\user\\source\\repos\\proj_int\\services\\participationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|solutionrelative:services\\participationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|c:\\users\\user\\source\\repos\\proj_int\\repositories\\participationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|solutionrelative:repositories\\participationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|c:\\users\\user\\source\\repos\\proj_int\\models\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|solutionrelative:models\\participation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|c:\\users\\user\\source\\repos\\proj_int\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|solutionrelative:repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|c:\\users\\user\\source\\repos\\proj_int\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|c:\\users\\user\\source\\repos\\proj_int\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C8E057-6A64-4385-BE89-37286DE59955}|proj_int.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proj_int\\Repositories\\ParticipationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ParticipationRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proj_int\\Repositories\\ParticipationRepository.cs",
+              "RelativeToolTip": "Repositories\\ParticipationRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:57:14.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proj_int\\Services\\ParticipationService.cs",
+              "RelativeDocumentMoniker": "Services\\ParticipationService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proj_int\\Services\\ParticipationService.cs",
+              "RelativeToolTip": "Services\\ParticipationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:55:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proj_int\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proj_int\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:36:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proj_int\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proj_int\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:29:31.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Participation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proj_int\\Models\\Participation.cs",
+              "RelativeDocumentMoniker": "Models\\Participation.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proj_int\\Models\\Participation.cs",
+              "RelativeToolTip": "Models\\Participation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:29:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\proj_int\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\proj_int\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:32:01.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
